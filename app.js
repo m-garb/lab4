@@ -5,7 +5,7 @@ app.use(express.static("public"));
 
 //routes
 app.get("/", function(req, res){
-    res.render("index.html");
+    res.render("index.ejs");
 });
 
 app.get("/mercury", function(req, res){
