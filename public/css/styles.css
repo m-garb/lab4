@@ -7,3 +7,15 @@ body {
     background-color: #CBE2F6;
     text-align: center;
 }
+
+a:link {
+    color:black;
+}
+
+a:link {
+    color: green;
+}
+
+div {
+    background-color: white;
+}
